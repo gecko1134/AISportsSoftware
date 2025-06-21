@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+openai
+requests
+flask
+streamlit
+python-dotenv
+fastapi
+uvicorn
+PyPDF2
+fpdf
+jinja2
+sqlalchemy
